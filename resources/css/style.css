@@ -1,1 +1,30 @@
+*{
+    background-color: black;
+}
 
+body{
+    font-family:Verdana;
+    text-align:center;
+}
+h1{
+    font-weight:normal;
+    font-size:50px;
+    color:white;
+}
+
+h2{
+    font-weight:300;
+    font-size:42px;
+    color:white;
+}
+
+p{ 
+    font-weight:normal;
+    font-size:21px;
+    color:gray;
+}
+
+#download-excursion{
+    text-align:right !important;
+    color:gray;
+}
